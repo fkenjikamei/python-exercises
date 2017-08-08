@@ -1,5 +1,5 @@
 #Paginação utilizando o FOR
-lista = [1, 0, 20, 3, 4, 5, 60, 7, 8, 9, 10, 11, 12, 20, 30, 40, 40, 20, 45, 29, 21]
+lista = [1, 0, 20, 3, 4, 5, 60, 7, 8, 9, 0]
 qtd_itens_pagina = 2
 tamanho = len(lista)
 
