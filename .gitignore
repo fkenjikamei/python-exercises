@@ -6,3 +6,4 @@
 *.xcsettings
 *.xcscheme
 teste.py
+*.pyc
