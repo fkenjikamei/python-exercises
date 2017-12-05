@@ -8,3 +8,4 @@ print("\n\n")
 print(type(10+29))
 print(type(10/4))
 print(type("Texto"))
+#Testando git
